@@ -1,0 +1,13 @@
+# Core dependencies for RL experiments
+numpy
+pandas
+matplotlib
+seaborn
+gymnasium
+
+# For DQN (extra credit)
+torch
+
+# Optional for enhanced functionality
+tqdm
+scipy

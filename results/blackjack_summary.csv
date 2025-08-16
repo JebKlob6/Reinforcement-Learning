@@ -1,0 +1,4 @@
+algorithm,iters,training_time,avg_reward,win_rate
+VI,1000,0.0271,-0.058,0.4315
+PI,50,0.0599,-0.036,0.4445
+SARSA,20000,1.4185,0.15,0.51
